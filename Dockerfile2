@@ -1,0 +1,2 @@
+FROM tomcat
+COPY MyWebsite.war /usr/local/tomcat/webapps/MyWebsite.war
