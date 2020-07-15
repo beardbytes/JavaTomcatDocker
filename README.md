@@ -21,6 +21,8 @@
    - `{"dns":["192.168.1.1","8.8.8.8"]}`
 
 - And here we go....the dockerfile starts running again.
+
 - *PS:The above fix worked for me.Or else use [this](https://google.com)*. 
 
-- To make your life easier just do the following : `sudo docker pull adi123456789/tomcat8`.
+## Dockerfile2
+- Run this file using the above steps , if the above file dosen't hit the end point .
